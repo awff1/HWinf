@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dz13_SaveLoadGame" />
+        <module name="dz15_ClientService" />
+        <module name="dz11_streamBooking" />
+        <module name="inf403_lab03HW" />
+        <module name="inf403_lab02HW2" />
+        <module name="inf403_lab02HW" />
+        <module name="dz8_IteratorMap" />
+        <module name="dz9_GraphSort" />
+        <module name="inf403_lab03" />
+        <module name="dz1_List403" />
+        <module name="dz6_Transport" />
+        <module name="dz7_dz10" />
+        <module name="dz4_overrite_equals" />
+        <module name="dz12_Pushkin" />
+        <module name="inf403_lab15" />
+        <module name="inf403_lab18" />
+        <module name="dz20_player" />
+        <module name="dz3_Set" />
+        <module name="dz5_TimeCheck" />
+        <module name="dz2_LinkedListgeneric" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ControlWork" target="23" />
+      <module name="Dopka" target="23" />
+      <module name="dz1(List403)" target="23" />
+      <module name="dz11" target="23" />
+      <module name="dz11(streamBooking)" target="23" />
+      <module name="dz12(Pushkin)" target="23" />
+      <module name="dz13(SaveLoadGame)" target="23" />
+      <module name="dz15(ClientService)" target="23" />
+      <module name="dz19(player)" target="23" />
+      <module name="dz2(LinkedListgeneric)" target="23" />
+      <module name="dz20(player)" target="23" />
+      <module name="dz3(Set)" target="23" />
+      <module name="dz4(переопред_equals)" target="23" />
+      <module name="dz5(замервремени)" target="23" />
+      <module name="dz6(Transport)" target="23" />
+      <module name="dz7 and dz10" target="23" />
+      <module name="dz7anddz10_Map_and_MapToList" target="23" />
+      <module name="dz8(IteratorMap)" target="23" />
+      <module name="dz9(GraphSort)" target="23" />
+      <module name="inf403_DB_HW" target="23" />
+      <module name="inf403_GRAPH_HW" target="23" />
+      <module name="inf403_lab02" target="23" />
+      <module name="inf403_lab02_HW" target="23" />
+      <module name="inf403_lab02_SetStructure" target="23" />
+      <module name="inf403_lab04" target="23" />
+      <module name="inf403_lab06" target="23" />
+      <module name="inf403_lab07_MAP_HW" target="23" />
+      <module name="inf403_lab07_MAP_HW2" target="23" />
+      <module name="inf403_lab09" target="23" />
+      <module name="inf403_lab13" target="23" />
+      <module name="Inf403_lab14" target="23" />
+      <module name="inf403_lab16" target="23" />
+      <module name="inf403_lab19_Refl" target="23" />
+      <module name="inf403_TESTS_HW" target="23" />
+      <module name="inf403_Tests_HW" target="23" />
+      <module name="lab2_15_tasks" target="19" />
+      <module name="Temp" target="23" />
+      <module name="testMine" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

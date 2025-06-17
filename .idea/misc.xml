@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/inf403_lab01/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab02/pom.xml" />
+        <option value="$PROJECT_DIR$/Dopka/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab02HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab02HW2/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab03/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab03HW/pom.xml" />
+        <option value="$PROJECT_DIR$/testMine/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab04/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab06/pom.xml" />
+        <option value="$PROJECT_DIR$/Inf403_lab05/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab07/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab08/pom.xml" />
+        <option value="$PROJECT_DIR$/Temp/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab09/pom.xml" />
+        <option value="$PROJECT_DIR$/Inf403_lab12/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab13/pom.xml" />
+        <option value="$PROJECT_DIR$/Inf403_lab14/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab12_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab15/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab16/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab17/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab17_musikPlayer/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab09_GRAPG_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab07_MAP_HW2/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab07_MAP_HW_/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab18/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab10_Stream/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_GameSave_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/ControlWork/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab05_Transport_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/Inf403_lab12_WithNetHW_Socket/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_Tests_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_DB_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab19_Refl/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_TESTS_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_GRAPH_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab02_Listgenerics/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab2_linkListgener/pom.xml" />
+        <option value="$PROJECT_DIR$/dz3/pom.xml" />
+        <option value="$PROJECT_DIR$/dz4/pom.xml" />
+        <option value="$PROJECT_DIR$/dz1/pom.xml" />
+        <option value="$PROJECT_DIR$/dz2/pom.xml" />
+        <option value="$PROJECT_DIR$/dz5/pom.xml" />
+        <option value="$PROJECT_DIR$/dz11/pom.xml" />
+        <option value="$PROJECT_DIR$/dz6/pom.xml" />
+        <option value="$PROJECT_DIR$/dz7 and dz10/pom.xml" />
+        <option value="$PROJECT_DIR$/dz8/pom.xml" />
+        <option value="$PROJECT_DIR$/dz9/pom.xml" />
+        <option value="$PROJECT_DIR$/dz20/pom.xml" />
+        <option value="$PROJECT_DIR$/dz1_List403/pom.xml" />
+        <option value="$PROJECT_DIR$/dz2_LinkedListgeneric/pom.xml" />
+        <option value="$PROJECT_DIR$/dz3_Set/pom.xml" />
+        <option value="$PROJECT_DIR$/dz4_overrite_equals/pom.xml" />
+        <option value="$PROJECT_DIR$/dz5_TimeCheck/pom.xml" />
+        <option value="$PROJECT_DIR$/dz6_Transport/pom.xml" />
+        <option value="$PROJECT_DIR$/dz8_IteratorMap/pom.xml" />
+        <option value="$PROJECT_DIR$/dz7_dz10/pom.xml" />
+        <option value="$PROJECT_DIR$/dz9_GraphSort/pom.xml" />
+        <option value="$PROJECT_DIR$/dz11_streamBooking/pom.xml" />
+        <option value="$PROJECT_DIR$/dz12_Pushkin/pom.xml" />
+        <option value="$PROJECT_DIR$/dz13_SaveLoadGame/pom.xml" />
+        <option value="$PROJECT_DIR$/dz15_ClientService/pom.xml" />
+        <option value="$PROJECT_DIR$/dz20_player/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ControlWork/pom.xml" />
+        <option value="$PROJECT_DIR$/Dopka/pom.xml" />
+        <option value="$PROJECT_DIR$/Inf403_lab14/pom.xml" />
+        <option value="$PROJECT_DIR$/Temp/pom.xml" />
+        <option value="$PROJECT_DIR$/dz11/pom.xml" />
+        <option value="$PROJECT_DIR$/dz19(player)/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_DB_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_GRAPH_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_TESTS_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_Tests_HW/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab02/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab04/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab06/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab07_MAP_HW2/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab09/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab13/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab16/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab17/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab18/pom.xml" />
+        <option value="$PROJECT_DIR$/inf403_lab19_Refl/pom.xml" />
+        <option value="$PROJECT_DIR$/testMine/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
